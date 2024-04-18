@@ -1,1 +1,1 @@
-## Solutions to some let code written in golang
+## Solutions to leetcode problems written in golang
