@@ -1,1 +1,1 @@
-## Solutions to leetcode problems written in golang
+## Solutions to leetcode problems written in golang and typescript
